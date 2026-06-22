@@ -1,0 +1,10 @@
+{
+  "name": "anjing-gila",
+  "version": "1.0.0",
+  "displayName": "Anjing Gila",
+  "cordova": {
+    "platforms": [
+      "android"
+    ]
+  }
+}
